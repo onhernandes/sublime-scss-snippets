@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:map}: (
+\$${1:map}: (
   item1: 0
 );
 ]]></content>

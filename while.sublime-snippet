@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-@while ${1:i} > 0 {
-  .item-#{$i} {
+@while \$${1:i} > 0 {
+  .item-#{\$$1} {
   
   }
 }

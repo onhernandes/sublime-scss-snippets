@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-@for ${1:i} from 1 through 3 {
-  .item-#{$i} {
+@for \$${1:i} from 1 through 3 {
+  .item-#{\$$1} {
   
   }
 }
